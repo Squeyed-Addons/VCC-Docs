@@ -1,3 +1,7 @@
+* [Contents](Contents.md)
+
+***
+
 Here I will explain the basics of VCC by explaining how to apply a strength value to indiviual or multiple colour channels in the Strength tab, these methods carry over to both the Colour and Gradient tabs with some varience in the buttons used to apply values, more information regarding those sections of VCC can be found in this link: https://github.com/Squeyed-Addons/VCC-Docs/wiki/VCC-Panel-Layout.
 
 Though before applying any values, to see them you need to be able to view them. You can simply view vertex colours by setting your viewport shading to Solid and enabling vertex colours but this will restrict the features of VCC.
@@ -79,3 +83,7 @@ The other simple function on this tab is the dropper button to the left of the S
 ***
 
 The Colour tab is practically the same as the Strength tab, but the Gradient tab is quite different, you can either experiment on your own or look at the VCC Panel Layout page of this documentation to understand it further, though the basic idea of selecting the vertex, edges or faces before applying values remains the same.
+
+***
+
+* [Contents](Contents.md)

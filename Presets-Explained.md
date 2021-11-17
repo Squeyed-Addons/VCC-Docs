@@ -1,3 +1,7 @@
+* [Contents](Contents.md)
+
+***
+
 Here is an explanation of VCC's preset system, this applies to both Strength and Colour Presets.
 
 As shown in the images below the strength and colour preset popups are essentially the same.
@@ -47,3 +51,7 @@ When this is selected it unlocks this list of presets so that you can move the p
 ![](https://github.com/Squeyed-Addons/VCC-Docs/blob/main/Media/Images/preset%20icon%20page.jpg?raw=true)
 
 If you have more than 10 presets in a list you can use the arrow buttons at the bottom of the presets panel to move the visible section of the list up or down. To the right of the buttons is the list number of the top value currently visible, then the bottom value currently visible and lastly the total number of presets in the list.
+
+***
+
+* [Contents](Contents.md)
