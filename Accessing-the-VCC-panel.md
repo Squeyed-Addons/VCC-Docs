@@ -1,4 +1,4 @@
-* [<< CONTENTS](Contents.md)
+[<< BACK](Quick-Start.md) | [CONTENTS](Contents.md) | [NEXT >>](VCC-Panel-Layout.md)
 
 ***
 
@@ -14,4 +14,4 @@ You can access the VCC panel from the 3D View in two ways:
 
 ***
 
-* [< BACK](Quick-Start.md) | [NEXT >](VCC-Panel-Layout.md)
+[<< BACK](Quick-Start.md) | [CONTENTS](Contents.md) | [NEXT >>](VCC-Panel-Layout.md)

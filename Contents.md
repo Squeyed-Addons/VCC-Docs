@@ -14,4 +14,4 @@
 
 ***
 
-* [< Back](README.md) | [Next >](Installation-&-Upgrading.md)
+[<< Back](README.md) | [Next >>](Installation-&-Upgrading.md)

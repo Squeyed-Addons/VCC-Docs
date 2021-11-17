@@ -1,4 +1,4 @@
-* [<< CONTENTS](Contents.md)
+[<< BACK](Accessing-the-VCC-panel.md) | [CONTENTS](Contents.md) | [NEXT >>](Presets-Explained.md)
 
 ***
 
@@ -204,13 +204,13 @@ If there is a button here labelled "Locate/Import Channel Viewer" this means tha
 
 IMPORTANT: To use the Channel Viewer material, you must apply it to each mesh you require, you must also set the shading in your viewport to "Material Preview".
 
-### channel viewer
+### Channel viewer
 
 ![](https://github.com/Squeyed-Addons/VCC-Docs/blob/main/Media/Images/channel%20viewer.JPG?raw=true)
 
 The five buttons in this row control which vertex colour channels are viewed through the Channel Viewer material. From left to right the options are Red, Green, Blue, Alpha and lastly a combination of red, green and blue.
 
-### gradient viewer
+### Gradient viewer
 
 ![](https://github.com/Squeyed-Addons/VCC-Docs/blob/main/Media/Images/gradient%20viewer.JPG?raw=true)
 
@@ -233,4 +233,4 @@ Using a custom layer name overrides the default vertex colour layer name of "VCC
 
 ***
 
-* [< BACK](Accessing-the-VCC-panel.md) | [NEXT >](Presets-Explained.md)
+[<< BACK](Accessing-the-VCC-panel.md) | [CONTENTS](Contents.md) | [NEXT >>](Presets-Explained.md)

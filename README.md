@@ -1,4 +1,4 @@
-* [<< CONTENTS](Contents.md)
+[<< CONTENTS](Contents.md) | [Installation & Upgrading >>](Installation-&-Upgrading.md)
 
 ***
 
@@ -21,4 +21,4 @@ Features:
 
 ***
 
-* [<< CONTENTS](Contents.md)
+[<< CONTENTS](Contents.md) | [Installation & Upgrading >>](Installation-&-Upgrading.md)
