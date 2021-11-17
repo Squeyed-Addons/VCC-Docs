@@ -1,5 +1,7 @@
 **Vertex Colour Control Documentation**
 
+* [Documentation](documentation.md)
+
 * [About VCC](https://github.com/Squeyed-Addons/VCC-Docs/wiki)
 
 **Getting Started**
