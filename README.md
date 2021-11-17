@@ -1,1 +1,1 @@
-* [Documentation](Documentation.md)
+* [Documentation](Docs/Documentation.md)
