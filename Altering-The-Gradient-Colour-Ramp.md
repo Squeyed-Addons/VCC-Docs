@@ -1,4 +1,4 @@
-* [Contents](Contents.md)
+* [CONTENTS](Contents.md)
 
 ***
 
@@ -10,4 +10,4 @@ The colour ramp used for the VCC gradient feature is accessed through the materi
 
 ***
 
-* [Contents](Contents.md)
+* [< BACK](Presets-Explained.md)

@@ -14,4 +14,4 @@
 
 **Important Information**
 
-* [< Back](README.md) * [Next >](Home.md)
+* [< Back](README.md) | [Next >](Home.md)

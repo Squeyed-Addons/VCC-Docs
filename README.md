@@ -1,3 +1,7 @@
+* [CONTENTS](Contents.md)
+
+***
+
 Welcome to the Vertex Colour Control documentation!
 
 Here you will find all of the information you will require to install and use the Vertex Colour Control Blender addon.
@@ -17,4 +21,4 @@ Features:
 
 ***
 
-* [Contents](Contents.md)
+* [CONTENTS](Contents.md)

@@ -1,3 +1,7 @@
+* [CONTENTS](Contents.md)
+
+***
+
 The most important part of the VCC panel is made up of three main tabs.
 
 ![](https://github.com/Squeyed-Addons/VCC-Docs/blob/main/Media/Images/main%20tabs.JPG?raw=true)
@@ -226,3 +230,7 @@ Currently the Additional Settings Button only accounts for one option but will l
 ![](https://github.com/Squeyed-Addons/VCC-Docs/blob/main/Media/Images/custom%20layer%20name%20popup.jpg?raw=true)
 
 Using a custom layer name overrides the default vertex colour layer name of "VCC Colour". This would probably be most useful if you wanted to prevent another layer from being overwritten or if you wanted to add to an existing layer that is not called "VCC Colour".
+
+***
+
+* [< BACK](Accessing-The-VCC-Panel.md) | [NEXT >](Presets-Explained.md)

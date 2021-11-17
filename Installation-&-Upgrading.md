@@ -1,4 +1,4 @@
-* [Contents](Contents.md)
+* [CONTENTS](Contents.md)
 
 ***
 
@@ -19,4 +19,4 @@ I also highly recommend backing up your preset file generally, but especially if
 
 ***
 
-* [Contents](Contents.md)
+* [< BACK](README.md) | [NEXT >](Quick-Start.md)

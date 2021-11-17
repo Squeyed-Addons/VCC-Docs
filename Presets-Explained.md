@@ -1,4 +1,4 @@
-* [Contents](Contents.md)
+* [CONTENTS](Contents.md)
 
 ***
 
@@ -54,4 +54,4 @@ If you have more than 10 presets in a list you can use the arrow buttons at the 
 
 ***
 
-* [Contents](Contents.md)
+* [< BACK](VCC-Panel-Layout.md) | [NEXT >](Altering-The-Gradient-Colour-Ramp.md)

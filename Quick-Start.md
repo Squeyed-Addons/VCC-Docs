@@ -1,4 +1,4 @@
-* [Contents](Contents.md)
+* [CONTENTS](Contents.md)
 
 ***
 
@@ -86,4 +86,4 @@ The Colour tab is practically the same as the Strength tab, but the Gradient tab
 
 ***
 
-* [Contents](Contents.md)
+* [< BACK](Installation-&-Upgrading.md) | [NEXT >](Accessing-The-VCC-Panel.md)
