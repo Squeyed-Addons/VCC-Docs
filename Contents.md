@@ -14,4 +14,8 @@
 
 **Important Information**
 
+<<<<<<< HEAD:Contents.md.txt
 * [< Back](README.md) | [Next >](Home.md)
+=======
+* [< Back](README.md) * [Next >](Home.md)
+>>>>>>> 658408fb97f7ee7b8fa0dfba0689b17f6580cf4f:Contents.md
