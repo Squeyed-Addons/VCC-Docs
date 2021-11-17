@@ -14,9 +14,9 @@ This explanation will cover just colour presets as they are functionally interch
 
 Presets are all stored in one JSON file, they are independant from your individual blend files so any changes made to them in one project will persist across all projects. By default the preset file will be stored in the root folder of your Blender installation, I would strongly advise you to set a custom location in the add-on preferences, somewhere outside of your Blender installation to make it easier to back it up and to avoid overwriting it.
 
-## **IMPORTANT**
+## **Suddenly Empty Presets?**
 
-This add-on checks in either the default or your custom location for your preset file each time a scene is loaded. If it's not detected it will create a new one. If you disable/uninstall this add-on followed by re-enabling/reinstalling/updating this add-on without re-loading your blend file, you risk overwriting your previously created preset file. This occurs because the add-on has missed it's chance to find the file when activated in an already loaded scene, then when you make any change to the new blank presets it will overwrite the old file. Please be careful to occassionally backup your presets and always re-load your scene if you've done any of the previously mentioned steps before making changes to your presets.
+If your presets are suddenly all gone then you may need to check the add-on preferences to make sure the correct directory has been set, however this can also occur when the add-on is disabled and then re-enabled or updated, this is because VCC checks for your save files when the Blend file is loaded. You can fix this by either reloading your Blend file, adding a new preset to the empty list will also bring them back. But just in case, as with all of your work I recommend you backup your preset files often.
 
 # The Preset Popup
 
