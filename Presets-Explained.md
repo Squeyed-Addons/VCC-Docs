@@ -1,4 +1,4 @@
-* [^ CONTENTS](Contents.md)
+* [<< CONTENTS](Contents.md)
 
 ***
 
