@@ -233,4 +233,4 @@ Using a custom layer name overrides the default vertex colour layer name of "VCC
 
 ***
 
-* [< BACK](Accessing-The-VCC-Panel.md) | [NEXT >](Presets-Explained.md)
+* [< BACK](Accessing-the-VCC-panel.md) | [NEXT >](Presets-Explained.md)
