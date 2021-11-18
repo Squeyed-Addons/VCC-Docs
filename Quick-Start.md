@@ -2,7 +2,7 @@
 
 ***
 
-Here I will explain the basics of VCC by explaining how to apply a strength value to indiviual or multiple colour channels in the Strength tab, these methods carry over to both the Colour and Gradient tabs with some varience in the buttons used to apply values, more information regarding those sections of VCC can be found in this link: https://github.com/Squeyed-Addons/VCC-Docs/wiki/VCC-Panel-Layout.
+Here I will explain the basics of VCC by explaining how to apply a strength value to indiviual or multiple colour channels in the Strength tab, these methods carry over to both the Colour and Gradient tabs with some varience in the buttons used to apply values, more information regarding those sections of VCC can be found in this [link](VCC-Panel-Layout).
 
 Though before applying any values, to see them you need to be able to view them. You can simply view vertex colours by setting your viewport shading to Solid and enabling vertex colours but this will restrict the features of VCC.
 
@@ -10,7 +10,7 @@ Though before applying any values, to see them you need to be able to view them.
 * You would not be able to use the gradient feature of VCC which relies on the VCC Channel Viewer. 
 * The VCC Channel Viewer material is not affected by light so each colour should be easier to see accurately.
 
-More information about the Channel Viewer can be found in this link: https://github.com/Squeyed-Addons/VCC-Docs/wiki/VCC-Panel-Layout#channel-viewer-section
+More information about the Channel Viewer can be found in this [link](VCC-Panel-Layout).
 
 ***
 
