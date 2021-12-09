@@ -6,7 +6,7 @@ Welcome to the Vertex Colour Controls documentation!
 
 If you have decided to purchase this add-on you have my sincere thanks, I hope you enjoy using this add-on!
 
-Here you will find all of the information you will require to install and use the Vertex Colour Controls Blender addon.
+Here you will find all of the information you will require to install and use the Vertex Colour Controls Blender add-on.
 
 ![](https://github.com/Squeyed-Addons/VCC-Docs/blob/main/Media/Images/VCC%20Title%20Image.png?raw=true)
 

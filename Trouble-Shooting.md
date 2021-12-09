@@ -2,10 +2,15 @@
 
 ***
 
+When you apply values they don't appear on the mesh?
+
+* Try deselecting your mesh and reselecting it, then apply the values again.
+* See the entry for "Can't see the vertex colours you've applied?".
+
 Can't see the vertex colours you've applied?
 
-* With the mesh selected, go to the "Object Data Properties", look in the "Vertex Colors" tab, if there is more than one layer, check that the correct layer has the camera icon to it's right highlighted, this makes it so that layer is the "Active Render" layer.
 * If you're using the VCC Channel Viewer material make sure you're using the correct channel, this can be checked at the bottom of the VCC panel.
+* With the mesh selected, go to the "Object Data Properties", look in the "Vertex Colors" tab, if there is more than one layer, check that the correct layer has the camera icon to it's right highlighted, this makes it so that layer is the "Active Render" layer.
 
 Can't see your saved presets?
 
